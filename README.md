@@ -2,7 +2,7 @@
 
 ## Dashboard URL:
 
-<https://github.com/Kuntal-sys/Plotly_Webpage/>
+<https://kuntal-sys.github.io/Plotly_Webpage/>
 
 ### Project Background
 
